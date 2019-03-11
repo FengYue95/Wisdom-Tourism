@@ -5,8 +5,11 @@
 * 乒乓数据
 * 漂移数据
 * 活动区域合并
+
 ![乒乓数据处理](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/1.png)
+
 ![漂移数据处理](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/2.png)
+
 ![活动区域合并](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/3.png)
 
 ## 移动性推断社交关系
