@@ -18,6 +18,12 @@
 * 基站附近POI查询
 * 移动网络嵌入
 
+![用户meeting检测](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/4.png)
+![用户meeting检测](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/5.png)
+![移动网络嵌入](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/6.png)
+![移动网络嵌入](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/7.png)
+![移动网络嵌入](https://github.com/FengYue95/Wisdom-Tourism/blob/master/img/8.png)
+
 ## 景点推荐
 
 * 景点详细信息爬取
